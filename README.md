@@ -1,5 +1,3 @@
-created the src folder and dowloaded the css from the source
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
